@@ -5,6 +5,7 @@ Open source Android Kotlin option side sliding option menu library with iOS like
 
 Close behaviour|Options usage
 ---|---
+<img src="docs/swipes.gif" align="center" title="Close behaviour">|<img src="docs/taps.gif" align="center" title="Options usage">
 
 # Feature
 
@@ -83,4 +84,4 @@ implementation 'com.github.vcoolish:SwipeOptionLayout:1.0.0'
 
 # License
 
-Trust Wallet Core is available under the MIT license. See the [LICENSE](LICENSE) file for more info.
+SwipeOptionLayout is available under the MIT license. See the [LICENSE](LICENSE) file for more info.
