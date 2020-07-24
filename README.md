@@ -9,10 +9,11 @@ Close behaviour|Options usage
 
 # Feature
 
-- 1. Two-way sliding
-- 2. Two side options
-- 3. Support any View
-- 4. iOS Like behaviour
+- Two-way sliding
+- Two side options
+- Support any View
+- iOS Like behaviour
+- Disable side sliding on demand
 
 ```
 implementation 'com.github.vcoolish:SwipeOptionLayout:1.0.0'
