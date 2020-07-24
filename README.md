@@ -15,6 +15,8 @@ Close behaviour|Options usage
 - iOS Like behaviour
 - Disable side sliding on demand
 
+# Integration
+
 Project level build.gradle
 ```
 ...
