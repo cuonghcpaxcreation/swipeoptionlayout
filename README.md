@@ -15,8 +15,23 @@ Close behaviour|Options usage
 - iOS Like behaviour
 - Disable side sliding on demand
 
+Project level build.gradle
 ```
-implementation 'com.github.vcoolish:SwipeOptionLayout:1.0.0'
+...
+allprojects {
+    repositories {
+        ...
+        maven { url "https://dl.bintray.com/vcoolish/SwipeOptionLayout" }
+    }
+}
+```
+
+App level build.gradle
+```
+dependencies {
+  ...
+  implementation 'com.github.vcoolish:SwipeOptionLayout:1.0.0'
+}
 ```
 
 ### Example layout
