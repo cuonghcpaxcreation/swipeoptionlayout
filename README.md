@@ -17,17 +17,6 @@ Close behaviour|Options usage
 
 # Integration
 
-Project level build.gradle
-```
-...
-allprojects {
-    repositories {
-        ...
-        maven { url "https://dl.bintray.com/vcoolish/SwipeOptionLayout" }
-    }
-}
-```
-
 App level build.gradle
 ```
 dependencies {
